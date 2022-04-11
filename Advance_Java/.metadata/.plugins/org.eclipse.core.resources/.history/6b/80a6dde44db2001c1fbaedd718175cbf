@@ -1,0 +1,9 @@
+package Com.Bean;
+
+public class MarksheetBean {
+	private int ID;
+	private String ROLL_NO;
+	private String FNAME;
+	private String LA
+
+}

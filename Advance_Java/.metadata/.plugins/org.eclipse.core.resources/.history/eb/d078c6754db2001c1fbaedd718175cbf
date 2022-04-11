@@ -1,0 +1,27 @@
+package Com.Bean;
+
+public class AuthenticataeBean {
+	private String Email;
+	private String Pwd;
+
+	public AuthenticataeBean() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public String getEmail() {
+		return Email;
+	}
+
+	public void setEmail(String email) {
+		Email = email;
+	}
+
+	public String getPwd() {
+		return Pwd;
+	}
+
+	public void setPwd(String pwd) {
+		Pwd = pwd;
+	}
+	
+}

@@ -1,0 +1,7 @@
+package Com.Bean;
+
+public class AuthenticataeBean {
+	private String Email;
+	private String Pwd;
+
+}

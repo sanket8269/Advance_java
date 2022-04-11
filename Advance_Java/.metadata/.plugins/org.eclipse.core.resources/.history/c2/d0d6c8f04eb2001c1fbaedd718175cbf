@@ -1,0 +1,14 @@
+package Com.Model;
+
+import Com.Bean.MarksheetBean;
+
+public class MarksheetModel {
+	public static void main(String[] args) {
+		add();
+	}
+
+	private static void add(MarksheetBean bean) {
+		
+
+	}
+}

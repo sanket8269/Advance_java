@@ -1,0 +1,7 @@
+package Com.Model;
+
+public class AuthenticateModel {
+ public static void main(String[] args) {
+	Class.forname("com.mysql.jdbc.Driver");
+}
+}
